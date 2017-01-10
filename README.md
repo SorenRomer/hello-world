@@ -1,2 +1,5 @@
 # hello-world
-An intro repository to get GitHub up and running in my brain!
+
+Hi Humans!
+
+I'm the Inspectah Deck, so best protect ya neck!
